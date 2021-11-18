@@ -18,6 +18,7 @@
 | 191-324 | https://github.com/danielkiko | Киколиашвили Д.З.|
 | 201-324 | https://github.com/KseniaKons | Константинова К.А.|
 | 201-323 | https://github.com/ProstDasha | Параваева Д.О.|
+| 201-323 | https://github.com/kocha-koch | Кочнева А.С |
 
 ### Личный вклад участников
 #### Петренко А.А.
