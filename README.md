@@ -15,6 +15,7 @@
 | 181-325 | https://github.com/ArtVolley | Усвяцов А.Д.|
 | 181-325 | https://github.com/StepanTolstyh | Толстых С.С.|
 | 191-324 | https://github.com/YazevIgor | Язев И.Е.|
+| 191-324 | https://github.com/danielkiko | Киколиашвили Д.З.|
 
 ### Личный вклад участников
 #### Петренко А.А.
