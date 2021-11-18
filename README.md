@@ -19,6 +19,7 @@
 | 201-324 | https://github.com/KseniaKons | Константинова К.А.|
 | 201-323 | https://github.com/ProstDasha | Параваева Д.О.|
 | 201-323 | https://github.com/kocha-koch | Кочнева А.С |
+| 191-324 | https://github.com/G-Astral | Алексанян Г.М. |
 
 ### Личный вклад участников
 #### Петренко А.А.
