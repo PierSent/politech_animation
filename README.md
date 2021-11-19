@@ -27,6 +27,7 @@
 | 201-324 | https://github.com/Mal0spal | Бражников И.Е. |
 | 201-324 | https://github.com/viacheslavka0 | Синяков В.А |
 | 201-324 | https://github.com/aleeeeeexx | Фукина А.Д. |
+| 201-324 | https://github.com/uonll | Смирнова С.В. |
 
 ### Личный вклад участников
 #### Петренко А.А.
